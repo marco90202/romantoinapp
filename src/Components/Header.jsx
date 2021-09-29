@@ -7,7 +7,7 @@ const Header = () => {
             <AppBar > 
                 <Toolbar>
                     <Typography variant="h3" component="h2" >
-                        Roman to Integer  
+                        Roman to Integer Number  
                     </Typography> 
                 </Toolbar>
             </AppBar>
